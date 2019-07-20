@@ -1,0 +1,23 @@
+.app {
+  padding-top: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.app .button-holder-segment {
+  padding: 0.5em 0.5em;
+}
+
+.app .control-label {
+  color: #232f3e;
+  background-color: transparent;
+  font-size: large;
+  padding-top: 0.2em;
+  padding-bottom: 0.3em;
+}
+
+.app .control-text {
+  color: #232f3e;
+  background-color: transparent;
+  font-size: x-small;
+}
