@@ -27,11 +27,6 @@ Table filter field can be used to narrow down contents.  This field can be set p
 
 ![screenshot3]
 
-[react-table-semantic-ui]: https://react.semantic-ui.com/collections/table/
-[screenshot1]: ./docs/smart_table_1.png
-[screenshot2]: ./docs/smart_table_2.png
-[screenshot3]: ./docs/smart_table_3.png
-
 ## Usage
 
 Refer to `component/app.js` on basic usage.
@@ -43,3 +38,9 @@ TBD
 ## License
 
 ISC
+
+<!-- References -->
+[react-table-semantic-ui]: https://react.semantic-ui.com/collections/table/
+[screenshot1]: ./docs/smart_table_1.png
+[screenshot2]: ./docs/smart_table_2.png
+[screenshot3]: ./docs/smart_table_3.png
